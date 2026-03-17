@@ -12,5 +12,5 @@ No processo de filtragem geoespacial, foram utilizados arquivos vetoriais corres
 
 Este projeto integra pesquisas desenvolvidas no:
 
-<p style="font-size:20px;">Laboratório Espaço Público e Direito à Cidade (LabCidade) - (https://www.labcidade.fau.usp.br/) </p>
+<p style="font-size:30px;">Laboratório Espaço Público e Direito à Cidade (LabCidade) - (https://www.labcidade.fau.usp.br/) </p>
 
