@@ -1,4 +1,4 @@
-##__Condomínios em Inadimplência__
+## __Condomínios em Inadimplência__
 
 Este repositório reúne um conjunto de _scripts_ em _Python_ destinados ao processamento e à análise de dados sobre ações condominiais por inadimplência na Região Metropolitana de São Paulo (RMSP).
 
