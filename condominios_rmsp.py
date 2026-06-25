@@ -33,7 +33,7 @@ from pathlib import Path
 #   └── output/
 
 # Define a pasta raiz do projeto como o diretório onde o script está localizado
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path.cwd()
 
 # Caminhos relativos a partir da raiz do projeto
 CSV_PATH = BASE_DIR / "data" / "Condominios_resultados.csv"
