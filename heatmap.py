@@ -18,8 +18,8 @@ print(f"✓  Fonte em uso: {FONT}")
 
 # ── 1. LEITURA DOS DADOS ─────────────────────────────────────────────────────
 
-FILE = r"C:\Users\ulise\Condominios_Trabalho\Condominios_rmsp\data\heatmap.csv"
-out = r"C:\Users\ulise\Condominios_Trabalho\Condominios_rmsp\output"
+FILE = r"C:\Condominios_Trabalho\Condominios_rmsp\data\heatmap.csv"
+out = r"C:\Condominios_Trabalho\Condominios_rmsp\output"
 
 df = pd.read_csv(FILE, sep=";", encoding="cp860")
 
